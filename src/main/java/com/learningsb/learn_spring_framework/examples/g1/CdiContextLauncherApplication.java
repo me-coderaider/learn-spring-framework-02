@@ -1,4 +1,4 @@
-package com.learningsb.learn_spring_framework.examples.h1;
+package com.learningsb.learn_spring_framework.examples.g1;
 
 import java.util.Arrays;
 

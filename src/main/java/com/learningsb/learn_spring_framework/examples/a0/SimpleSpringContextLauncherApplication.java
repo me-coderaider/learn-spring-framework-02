@@ -9,7 +9,8 @@ import org.springframework.context.annotation.Configuration;
 
 
 @Configuration
-@ComponentScan("com.learningsb.learn_spring_framework.examples.a0")
+//@ComponentScan("com.learningsb.learn_spring_framework.examples.a0")
+@ComponentScan
 public class SimpleSpringContextLauncherApplication {
 	public static void main(String[] args) {
 
